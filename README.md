@@ -12,6 +12,7 @@ Citation: <https://www.kaggle.com/shivajbd/analog-clocks>
 Below is 6 sample images from the dataset:
 ![Sample Images](./README_images/samples.png)
 
+
 The labels from the images are available as a csv of shape (50000, 2) where the two columns correspond to the hour and minute respectively.
 
 ## Approach
