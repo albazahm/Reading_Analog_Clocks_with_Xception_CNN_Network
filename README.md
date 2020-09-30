@@ -9,7 +9,7 @@ The dataset is made available through Kaggle and consists of 50,000 computer-gen
 
 Citation: <https://www.kaggle.com/shivajbd/analog-clocks>
 
-Below is 6 sample images from the dataset: </br> ![Sample Images](./README_images/samples.png)
+Below is 6 sample images from the dataset: </br> ![Sample Images](./README_images/sample.png)
 
 The labels from the images are available as a csv of shape (50000, 2) where the two columns correspond to the hour and minute respectively.
 
@@ -27,7 +27,7 @@ The labels from the images are available as a csv of shape (50000, 2) where the 
 
 5. The hour and minute with the highest predicted output probabilities were combined to form the prediction. The predictions of the sample images were as follows:
 
-![Predicted Images](./README_images/predictions.png)
+![Predicted Images](./README_images/samples_predictions.png)
 
 ## Relevant Sources
 
